@@ -1,0 +1,6 @@
+{
+  "name": "FitCircle",
+  "description": "A mobile-first accountability app to help small groups stay consistent with weight loss and fitness goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
