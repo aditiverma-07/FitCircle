@@ -25,3 +25,4 @@ The app requested a Java 21/Spring Boot backend. Due to constraints in the brows
 - **Dashboard:** Visualize your progress vs goals, and check your current habits completion.
 - **Group Tracking:** Join circles with friends.
 - **Social Feed:** Interact with your circles' updates.
+
